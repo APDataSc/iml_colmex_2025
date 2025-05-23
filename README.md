@@ -1,2 +1,2 @@
-# iml_colmex_2025
-Trabajo Final de Introducción al Machine Learning
+# MLI - COLMEX 2025
+Final Project on Introduction to Machine Learning
